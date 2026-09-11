@@ -1,4 +1,4 @@
-# Test Cases (100) — Stock Inventory Management System
+# Test Cases () — Stock Inventory Management System
 
 | TC ID | Module | Description | Steps | Expected Result | Priority |
 |---|---|---|---|---|---|
