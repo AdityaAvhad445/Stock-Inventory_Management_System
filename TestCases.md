@@ -1,4 +1,4 @@
-# Test Cases — Stock Inventory Management System
+# Test Cases(101) — Stock Inventory Management System
 
 ## Smoke Test Cases
 
