@@ -6,8 +6,8 @@ Manual testing was performed on the Stock Inventory Management System, covering 
 ## 2. Test Execution Summary
 | Metric | Count |
 |---|---|
-| Total Test Cases | 17 |
-| Passed | 13 |
+| Total Test Cases | 117 |
+| Passed | 113 |
 | Failed | 4 |
 | Blocked | 0 |
 | Not Executed | 0 |
